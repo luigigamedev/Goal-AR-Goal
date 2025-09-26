@@ -1,11 +1,5 @@
-# Goal AR Goal
-This is a 1v1 football shooting online multiplayer game made with Unity.
-
-This is part of a study about augmented reality and unity built in network.
-
-There is 2 versions, PC and Android. The Android's version uses augmented reality.
-
-The network design is based on an authoritative server.
+A 1v1 online multiplayer football shooting game built with Unity.
+This project uses a server-authoritative network design.
 
 ## Demo Video
 https://youtu.be/4hNYw7OQO1A
